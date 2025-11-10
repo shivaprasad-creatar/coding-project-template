@@ -1,1 +1,1 @@
-# coding-project-template
+This line is added for Task 2 (Pull Request Practice).
